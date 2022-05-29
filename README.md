@@ -17,6 +17,8 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/joeldorosarioo/cypress-basics.git
 
+$ cd cypress-basics
+
 # Install dependencies
 $ yarn install
 
