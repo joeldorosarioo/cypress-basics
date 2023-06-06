@@ -1,0 +1,9 @@
+{
+	"first_name": "Joel",
+	"last_name": "Oliveira",
+	"full_name": "Joel Oliveira",
+	"email_address": "oliveira@mail.com",
+	"request1": "Vegetarian",
+	"request2": "IPA Beer",
+	"invalid_email_address": "invalid-e-mail-address-gmail.com"
+}

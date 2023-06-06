@@ -1,0 +1,19 @@
+{
+	"name": "cypress-basics",
+	"version": "0.1.0",
+	"author": "Joel Oliveira",
+	"description": "Automated tests with Cypress.",
+	"main": "index.js",
+	"private": true,
+	"repository": "https://github.com/joeldorosarioo/cypress-basics.git",
+	"license": "MIT",
+	"scripts": {
+		"test": "cypress run"
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^17.6.5",
+		"@commitlint/config-conventional": "^17.6.5",
+		"cypress": "^12.13.0",
+		"husky": "^8.0.3"
+	}
+}
