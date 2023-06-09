@@ -26,10 +26,6 @@ $ yarn install
 
 $ yarn husky install
 
-# Add hook
-
-$ yarn husky add .husky/commit-msg 'yarn commitlint --edit $1'
-
 # Run tests
 
 yarn run test
